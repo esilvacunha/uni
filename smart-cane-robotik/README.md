@@ -17,11 +17,12 @@ The initial goal of autonomous parking was re-scoped due to time limitations, le
 - Potential for future upgrades (Bluetooth, GPS, haptic feedback)
 
 ## Folder Structure
-smart-cane-robotik/
-├── code/ # Arduino code
-├── media/ # Images, diagrams, videos
-├── report/ # Full written report (PDF)
-└── README.md # Project description and setup
+
+smart-cane-robotik/  
+├── code/          # Arduino source code  
+├── media/         # Images, wiring diagrams, and demonstration videos  
+├── report/        # Full written report (PDF)  
+└── README.md      # Project description and setup instructions  
 
 
 ## How It Works
