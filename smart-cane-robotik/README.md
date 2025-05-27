@@ -21,8 +21,7 @@ smart-cane-robotik/
 ├── code/ # Arduino code
 ├── media/ # Images, diagrams, videos
 ├── report/ # Full written report (PDF)
-├── README.md # Project description and setup
-└── LICENSE # Optional open-source license
+└── README.md # Project description and setup
 
 
 ## How It Works
