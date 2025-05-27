@@ -25,7 +25,7 @@ Each folder in this repository contains:
 
 ## 🔗 Additional Resources
 
-- [Online Portfolio ([https://your-portfolio.com](https://esilvacunha.github.io/portfolio/)
+- [Online Portfolio](https://esilvacunha.github.io/portfolio/)
 
 ---
 
